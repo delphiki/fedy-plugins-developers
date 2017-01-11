@@ -14,6 +14,6 @@
 			"label": "Remove",
 			"command": "run-as-root -s uninstall.sh"
 		},
-		"status": { "command": "test -f /opt/GitKraken/gitkraken" }
+		"status": { "command": "test -f /opt/gitkraken/gitkraken" }
 	}
 }
